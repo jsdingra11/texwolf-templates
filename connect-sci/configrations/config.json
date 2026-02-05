@@ -1,0 +1,22 @@
+{
+  "github": {
+    "tokenParts": [
+      "ghp_KufdJLeD",
+      "stzUItmpT30k",
+      "z2L2KNIoS80ftQlh"
+    ],
+    "owner": "jsdingra11",
+    "repo": "texwolf-templates",
+    "branch": "main"
+  },
+  "firebase": {
+    "apiKey": "AIzaSyB4eoofAdY4DrW-VKvfGJl5aNv2hoCTn4c",
+    "authDomain": "iist-fd6e8.firebaseapp.com",
+    "databaseURL": "https://iist-fd6e8-default-rtdb.firebaseio.com",
+    "projectId": "iist-fd6e8",
+    "storageBucket": "iist-fd6e8.firebasestorage.app",
+    "messagingSenderId": "692699808449",
+    "appId": "1:692699808449:web:120c8941a940d071f24a40",
+    "measurementId": "G-GPFG8LWF2H"
+  }
+}
